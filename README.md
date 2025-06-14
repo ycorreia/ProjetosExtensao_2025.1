@@ -1,2 +1,2 @@
 # ProjetosExtensao_2025.1
-Aula basica para git.
+Desenvolvimento de pagina web estatica para o Projeto Agrinho.
